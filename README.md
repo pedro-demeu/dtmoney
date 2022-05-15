@@ -5,9 +5,8 @@
 </h1>
 
 ## Descrição do Projeto
-<p align="center">🚀 Mini Projeto para cadastrar novas Transações, sejam elas uma `entrada` ou uma `saída`.</p>
-<br>
-<p align="center">Ao clicar no botão `Nova Transação` é aberto um modal onde você insere os dados e poderá ver eles no dashboard</p>
+<p align="center">🚀 Mini Projeto para cadastrar novas Transações, sejam elas uma ``entrada`` ou uma ```saída```.
+Ao clicar no botão `Nova Transação` é aberto um modal onde você insere os dados e poderá ver eles no dashboard</p>
 
 ## Tecnologias
 <p align="left">React JS </p>
