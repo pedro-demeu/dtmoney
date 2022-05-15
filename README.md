@@ -1,46 +1,64 @@
-# Getting Started with Create React App
+<h1 align="center">DTMoney</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Descrição do Projeto
+<p align="center">🚀 Mini Projeto para cadastrar novas Transações, sejam elas uma `entrada` ou uma `saída`.</p>
+<br>
+<p align="center">Ao clicar no botão `Nova Transação` é aberto um modal onde você insere os dados e poderá ver eles no dashboard</p>
 
-## Available Scripts
+## Tecnologias
+<p align="center">React JS </p>
+<p align="center">Typescript </p>
+<p align="center">Axios</p>
+<p align="center">Styled Components</p>
+<p align="center">Mirage JS</p>
 
-In the project directory, you can run:
+## Status do Projeto
+<h4 align="center"> 
+	✅ Projeto Concluído! 🚀
+</h4>
 
-### `yarn start`
+### Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [x] Insere uma nova transação
+- [x] Lista com as transações
+- [x] Persiste os dados com ContextAPI do React
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<h1 align="center">
+  <img alt="Dashboard" title="#DTMoney" src="./public/dtmoney-dashboard.png" />
+</h1>
 
-### `yarn test`
+### Autor
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<a href="https://www.linkedin.com/in/codewithmiguel/">
+ <img style="border-radius: 50%;" src="./public/perfil.jpg" width="100px;" alt=""/>
+ <br />
+ <sub><b>Pedro Miguel</b></sub></a> <a href="https://instagram.com/codewithmiguel" title="Instagram">🚀</a>
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Feito com ❤️ por Pedro Miguel 👋🏽 Entre em contato!
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/codewithmiguel) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/codewithmiguel/) 
+[![Gmail Badge](https://img.shields.io/badge/-pedromiguelnevesdemeu@gmail.com-c14438?sty
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+MIT License
 
-### `yarn eject`
+Copyright (c) <2020> <Seu Nome>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
