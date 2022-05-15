@@ -1,19 +1,23 @@
 <h1 align="center">DTMoney</h1>
 
+<h1 align="center">
+  <img alt="Dashboard" title="#DTMoney" src="./public/dtmoney-dashboard.png" />
+</h1>
+
 ## Descrição do Projeto
 <p align="center">🚀 Mini Projeto para cadastrar novas Transações, sejam elas uma `entrada` ou uma `saída`.</p>
 <br>
 <p align="center">Ao clicar no botão `Nova Transação` é aberto um modal onde você insere os dados e poderá ver eles no dashboard</p>
 
 ## Tecnologias
-<p align="center">React JS </p>
-<p align="center">Typescript </p>
-<p align="center">Axios</p>
-<p align="center">Styled Components</p>
-<p align="center">Mirage JS</p>
+<p align="left">React JS </p>
+<p align="left">Typescript </p>
+<p align="left">Axios</p>
+<p align="left">Styled Components</p>
+<p align="left">Mirage JS</p>
 
 ## Status do Projeto
-<h4 align="center"> 
+<h4 align="left"> 
 	✅ Projeto Concluído! 🚀
 </h4>
 
@@ -22,10 +26,6 @@
 - [x] Insere uma nova transação
 - [x] Lista com as transações
 - [x] Persiste os dados com ContextAPI do React
-
-<h1 align="center">
-  <img alt="Dashboard" title="#DTMoney" src="./public/dtmoney-dashboard.png" />
-</h1>
 
 ### Autor
 ---
@@ -38,10 +38,7 @@
 
 Feito com ❤️ por Pedro Miguel 👋🏽 Entre em contato!
 
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/codewithmiguel) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/codewithmiguel/) 
-[![Gmail Badge](https://img.shields.io/badge/-pedromiguelnevesdemeu@gmail.com-c14438?sty
-
-MIT License
+### MIT License
 
 Copyright (c) <2020> <Seu Nome>
 
