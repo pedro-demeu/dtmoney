@@ -1,5 +1,4 @@
 <h1 align="center">DTMoney</h1>
-<a href="https://pedro-demeu.github.io/dtmoney">Go to Production</a>
 <h1 align="center">
   <img alt="Dashboard" title="#DTMoney" src="./public/dtmoney-dashboard.png" />
 </h1>
@@ -7,6 +6,12 @@
 ## Descrição do Projeto
 <p align="center">🚀 Mini Projeto para cadastrar novas Transações, sejam elas uma <b>entrada<b> ou uma <strong>saída</strong>.
 Ao clicar no botão `Nova Transação` é aberto um modal onde você insere os dados e poderá ver eles no dashboard</p>
+
+## Como usar
+yarn install
+<bn>
+yarn start
+
 
 ## Tecnologias
 <p align="left">React JS </p>
